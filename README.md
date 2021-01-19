@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**yumusb/yumusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my computer. And some files, you can get it.
 
-Here are some ideas to get you started:
+```shell
+yumu@ubuntu:~$ whoami
+yumu
+yumu@ubuntu:~$ cat skill
+be good at 吹逼
+yumu@ubuntu:~$ cat contact
+`host -t txt 1.zhufan.net`
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying the identification and hiding of attack behaviors in network traffic. If necessary, you can contact me by email.
