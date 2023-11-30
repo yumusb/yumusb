@@ -6,5 +6,5 @@ yumu@ubuntu:~$ cat skill
 yumu@ubuntu:~$ type contact 
 contact is aliased to `host -t txt 1.zhufan.net`
 yumu@ubuntu:~$ type blog
-blog is aliased to `curl https://api.github.com/users/yumusb | jq -r '.blog'`
+blog is aliased to `curl -s https://api.github.com/users/yumusb | jq -r '.blog'`
 ```
